@@ -1,8 +1,8 @@
 # Introduction To Numpy and Pandas
  
-<div align="center">
+
 <h2> 1. Introduction to NumPy</h1>
-</div>
+
 
 NumPy stands for Numerical Python and it's a fundamental package for scientific computing in Python. NumPy provides Python with an extensive math library capable of performing numerical computations effectively and efficiently. Thes lesson is intended as a basic overview of NumPy and introduces some of its most important features.
 
