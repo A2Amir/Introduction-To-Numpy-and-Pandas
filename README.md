@@ -15,4 +15,6 @@ In the following lessons you will learn:
 
 4. [How to use Boolean indexing and set operations to select or change subsets of an ndarray and sorting ndarrays](https://github.com/A2Amir/Introduction-To-Numpy-and-Pandas/blob/master/Code/Boolean%20Indexing%2C%20Set%20Operations%2C%20and%20Sorting.ipynb)
 
-5. [How to perform element-wise operations on ndarrays and Understanding how NumPy uses broadcasting to perform operations on ndarrays of different sizes]()
+5. [How to perform element-wise operations on ndarrays and Understanding how NumPy uses broadcasting to perform operations on ndarrays of different sizes](https://github.com/A2Amir/Introduction-To-Numpy-and-Pandas/blob/master/Code/Arithmetic%20operations%20and%20Broadcasting.ipynb)
+
+5. [Mini-Project: Mean Normalization and Data Separation](https://github.com/A2Amir/Introduction-To-Numpy-and-Pandas/blob/master/Code/Mean%20Normalization%20and%20Data%20Separation.ipynb)
