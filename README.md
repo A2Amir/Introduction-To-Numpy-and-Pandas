@@ -9,13 +9,13 @@ NumPy stands for Numerical Python and it's a fundamental package for scientific 
 In the following lessons you will learn:
 
 
-1. [How to create multidimensional NumPy ndarrays using various methods, load and save ndarrays](https://github.com/A2Amir/Introduction-To-Numpy-and-Pandas/blob/master/Code/createNdarrays.ipynb)
+1. [How to create multidimensional NumPy ndarrays using various methods and load, save ndarrays](https://github.com/A2Amir/Introduction-To-Numpy-and-Pandas/blob/master/Code/createNdarrays.ipynb)
 2. [How to access and change elements in ndarrays](https://github.com/A2Amir/Introduction-To-Numpy-and-Pandas/blob/master/Code/AccessingDeletingInserting.ipynb)
-3. [How to use slicing to select or change subsets of an ndarray and understanding the difference between a view and a copy an of ndarray](https://github.com/A2Amir/Introduction-To-Numpy-and-Pandas/blob/master/Code/SlicingNdarrays.ipynb)
+3. [How to use slicing to select or change subsets of an ndarray and understand the difference between a view and a copy an of ndarray](https://github.com/A2Amir/Introduction-To-Numpy-and-Pandas/blob/master/Code/SlicingNdarrays.ipynb)
 
 4. [How to use Boolean indexing and set operations to select or change subsets of an ndarray and sorting ndarrays](https://github.com/A2Amir/Introduction-To-Numpy-and-Pandas/blob/master/Code/Boolean%20Indexing%2C%20Set%20Operations%2C%20and%20Sorting.ipynb)
 
-5. [How to perform element-wise operations on ndarrays and uses broadcasting to perform operations on ndarrays of different sizes](https://github.com/A2Amir/Introduction-To-Numpy-and-Pandas/blob/master/Code/Arithmetic%20operations%20and%20Broadcasting.ipynb)
+5. [How to perform element-wise operations on ndarrays and use broadcasting to perform operations on ndarrays of different sizes](https://github.com/A2Amir/Introduction-To-Numpy-and-Pandas/blob/master/Code/Arithmetic%20operations%20and%20Broadcasting.ipynb)
 
 5. [Mini-Project: Mean Normalization and Data Separation](https://github.com/A2Amir/Introduction-To-Numpy-and-Pandas/blob/master/Code/Mean%20Normalization%20and%20Data%20Separation.ipynb)
 
@@ -32,6 +32,7 @@ he following sections assume that you are already familiar with NumPy and have g
    1. [How to import Pandas and create Pandas Series](https://github.com/A2Amir/Introduction-To-Numpy-and-Pandas/blob/master/Code/Creating%20pandas%20Series.ipynb)
    2. [How to access and change elements in Pandas Series](https://github.com/A2Amir/Introduction-To-Numpy-and-Pandas/blob/master/Code/Accessing%20and%20Deleting%20Elements%20in%20pandas%20Series.ipynb) 
    3. [How to perform arithmetic operations on Series](https://github.com/A2Amir/Introduction-To-Numpy-and-Pandas/blob/master/Code/Arithmetic%20Operations%20on%20pandas%20Series.ipynb)
-   4. [How to load data into a DataFrame]()
+   4. [How to create DataFrames](https://github.com/A2Amir/Introduction-To-Numpy-and-Pandas/blob/master/Code/Creating%20pandas%20DataFrames.ipynb)
+   5. [How to access Elements and change,add, delete, set Index in Pandas DataFrames](https://github.com/A2Amir/Introduction-To-Numpy-and-Pandas/blob/master/Code/Accessing%20Elements%20in%20Pandas%20DataFrames.ipynb)
    5. [How to deal with Not a Number (NaN) values]()
 
