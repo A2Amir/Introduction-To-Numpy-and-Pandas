@@ -26,9 +26,6 @@ Pandas is a package for data manipulation and analysis in Python. The name Panda
 
 he following sections assume that you are already familiar with NumPy and have gone over the previous NumPy sections. In the following you will learn:
 
- and DataFrames using various methods
-   and DataFrames
-   
    1. [How to import Pandas and create Pandas Series](https://github.com/A2Amir/Introduction-To-Numpy-and-Pandas/blob/master/Code/Creating%20pandas%20Series.ipynb)
    2. [How to access and change elements in Pandas Series](https://github.com/A2Amir/Introduction-To-Numpy-and-Pandas/blob/master/Code/Accessing%20and%20Deleting%20Elements%20in%20pandas%20Series.ipynb) 
    3. [How to perform arithmetic operations on Series](https://github.com/A2Amir/Introduction-To-Numpy-and-Pandas/blob/master/Code/Arithmetic%20Operations%20on%20pandas%20Series.ipynb)
