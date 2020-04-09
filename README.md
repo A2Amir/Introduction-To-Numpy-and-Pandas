@@ -34,5 +34,11 @@ he following sections assume that you are already familiar with NumPy and have g
    3. [How to perform arithmetic operations on Series](https://github.com/A2Amir/Introduction-To-Numpy-and-Pandas/blob/master/Code/Arithmetic%20Operations%20on%20pandas%20Series.ipynb)
    4. [How to create DataFrames](https://github.com/A2Amir/Introduction-To-Numpy-and-Pandas/blob/master/Code/Creating%20pandas%20DataFrames.ipynb)
    5. [How to access Elements and change,add, delete, set Index in Pandas DataFrames](https://github.com/A2Amir/Introduction-To-Numpy-and-Pandas/blob/master/Code/Accessing%20Elements%20in%20Pandas%20DataFrames.ipynb)
-   5. [How to deal with Not a Number (NaN) values]()
+   
+   6. [How to deal with Not a Number (NaN) values](https://github.com/A2Amir/Introduction-To-Numpy-and-Pandas/blob/master/Code/Dealing%20with%20NaN.ipynb)
+   
+   7. [How to Load Data into a pandas DataFrame and use statistical descriptive methods and groupby methods](https://github.com/A2Amir/Introduction-To-Numpy-and-Pandas/blob/master/Code/Loading%20Data%20into%20a%20pandas%20DataFrame.ipynb)
+   
+   8. [Mini-Project: Statistics From Stock Data](https://github.com/A2Amir/Introduction-To-Numpy-and-Pandas/blob/master/Code/Statistics%20from%20Stock%20Data.ipynb)
+
 
